@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/com.poc.osgiannotation"/>
+    <filter root="/apps/sling" />
+    <filter root="/etc/designs/com.poc.osgiannotation"/>
+</workspaceFilter>
